@@ -1,1 +1,30 @@
+/* /static/css/style.css */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    margin: 5px;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
 
