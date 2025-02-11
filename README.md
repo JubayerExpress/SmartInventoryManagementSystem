@@ -1,9 +1,4 @@
-# Smart Inventory Management System
-# Smart Inventory Management System
-# Smart Inventory Management System
-## Overview
-# Smart Inventory Management System
-# Smart Inventory Management System
+
 # Smart Inventory Management System
 ## Overview
 This is a simple inventory management system built using Flask and SQLite. It allows small businesses to efficiently manage their product inventory.
